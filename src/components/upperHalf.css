@@ -1,0 +1,15 @@
+.upperHalf{
+    display: flex;
+    flex-direction: row;
+}
+
+.img1{
+    height: 200%;
+    width: 400px;
+}
+
+.img2{
+    margin-left:90px;
+    height: 480px;
+    width: 800px;
+}

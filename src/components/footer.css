@@ -1,0 +1,40 @@
+.container {
+    background-color: red;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.callIcon {
+    margin-left: 180px;
+}
+
+.fbIcon{
+    margin-left: 180px;
+}
+
+.webIcon {
+    margin-left: 180px;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color:black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
