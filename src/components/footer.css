@@ -1,23 +1,13 @@
 .container {
     background-color: red;
     height: 70px;
+    width: auto;
     display: flex;
     flex-direction: row;
     align-items: center;
-
-}
-
-.callIcon {
-    margin-left: 180px;
-}
-
-.fbIcon{
-    margin-left: 180px;
-}
-
-.webIcon {
-    margin-left: 180px;
-}
+    flex-wrap: wrap;
+    justify-content: space-around;
+    }
 a:link {
     color: white;
     background-color: transparent;

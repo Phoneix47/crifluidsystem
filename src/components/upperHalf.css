@@ -1,15 +1,29 @@
 .upperHalf{
     display: flex;
-    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-right: 40px;
+    font-size: 1rem;
 }
 
 .img1{
-    height: 200%;
-    width: 400px;
+    /* height: 700px; */
+    /* width: 300px; */
+   
+    width: 35%;
+    height: auto;
 }
 
 .img2{
-    margin-left:90px;
-    height: 480px;
-    width: 800px;
+    
+    /* height: 480px;
+    width: 700px; */
+    width: 90%;
+    height: auto;
+   
+
+
+
+
+ 
+  
 }

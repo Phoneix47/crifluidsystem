@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import Lowerhalf from './components/lowerhalf';
 import './App.css';
 import Footer from './components/footer';
+
 const App = () => {
   return (
     <div className="App">
@@ -10,6 +11,7 @@ const App = () => {
 
       <Upperhalf />
       <Lowerhalf />
+
       <div>
         <Footer />
       </div>
